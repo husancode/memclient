@@ -1,0 +1,4 @@
+memclient
+=========
+
+memcache easy client
